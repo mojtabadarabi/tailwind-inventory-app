@@ -1,0 +1,17 @@
+body{
+  user-select: none;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+::-webkit-scrollbar {
+    width: 5px;
+    height: 5px;
+    background-color: #ffffff;
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    width: 5px;
+    height: 5px;
+    background-color: #cccccc;
+  }
